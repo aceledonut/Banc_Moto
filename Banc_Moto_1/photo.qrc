@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>IMAGES_MOTO/Roue_Arrierre.jpg</file>
+        <file>IMAGES_MOTO/Roue_Avant.jpg</file>
+        <file>IMAGES_MOTO/Rouleau.jpg</file>
+    </qresource>
+</RCC>
